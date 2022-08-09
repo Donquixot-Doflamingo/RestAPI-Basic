@@ -1,2 +1,2 @@
 # RestAPI-Basic
-In this repository I learnt about springbok and its basic annotations. Tried to make API name cloud vendor service for CRUD operations.
+In this repository I learnt about springboot and its basic annotations. Tried to make API name cloud vendor service for CRUD operations.
